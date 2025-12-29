@@ -1,0 +1,14 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+*.tfvars
+
+kubeconfig
+kubeconfig-*
+
+.aws/
+*.pem
+*.key
+
+*.log
